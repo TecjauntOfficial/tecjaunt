@@ -1,12 +1,11 @@
-# tecjaunt
 <h1 align="center">Hi 👋, I'm Umair Nasir</h1>
 <h3 align="center">Empowering Tomorrow: Your Digital Future Starts Here!</h3>
 
-- Who We Are: As a leading software company with a robust 10-year background in mobile app development in Pakistan, Tecjaunt is your go-to destination for cutting-edge technical services. We are dedicated to empowering individuals and industries with high-performance solutions and applications.
+- Who We Are: **As a leading software company with a robust 10-year background in mobile app development in Pakistan, Tecjaunt is your go-to destination for cutting-edge technical services. We are dedicated to empowering individuals and industries with high-performance solutions and applications.**
 
-- What We Do: At Tecjaunt, our diverse range of services stands out for its quality and recognition. Our adept developers specialize in tailoring solutions, catering to both small businesses and enterprise requirements. From sleek Mobile and Web applications to robust Enterprise Resource Planning Systems, we've got you covered.
+- What We Do: **At Tecjaunt, our diverse range of services stands out for its quality and recognition. Our adept developers specialize in tailoring solutions, catering to both small businesses and enterprise requirements. From sleek Mobile and Web applications to robust Enterprise Resource Planning Systems, we've got you covered.**
 
-- Our Beliefs: Stunning. Intuitive. Innovative. These aren't just words for us; they're our commitment. We believe in delivering solutions to our clients that not only meet but exceed expectations. Our goal is to elevate your organization, ensuring true operational excellence every step of the way.
+- Our Beliefs: **Stunning. Intuitive. Innovative. These aren't just words for us; they're our commitment. We believe in delivering solutions to our clients that not only meet but exceed expectations. Our goal is to elevate your organization, ensuring true operational excellence every step of the way.**
 
 - Ready to embark on a transformative journey with Tecjaunt? Let's innovate together! **tecjaunt.org@gmail.com**
 
